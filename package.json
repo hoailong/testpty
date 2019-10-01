@@ -1,0 +1,25 @@
+{
+  "name": "test-pty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "node-gyp": "^5.0.4",
+    "node-pty": "^0.8.1",
+    "os": "^0.1.1",
+    "pty.js": "^0.3.1",
+    "socket.io": "^2.3.0",
+    "ssh2": "^0.8.5",
+    "utf8": "^3.0.0",
+    "xterm": "^4.0.2"
+  }
+}
